@@ -1,0 +1,367 @@
+F:\מבוא לc#\project Meitar&Itamar\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\bin\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\bin\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\MainWindow.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\App.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\bin\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\App.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Desktop\חופר\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Desktop\חופר\obj\Debug\Final Project.exe
+C:\Users\itamar\Desktop\חופר\obj\Debug\Final Project.pdb
+C:\Users\itamar\Desktop\חופר\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Desktop\חופר\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\itamar\Desktop\חופר\obj\Debug\MainWindow.baml
+C:\Users\itamar\Desktop\חופר\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Desktop\חופר\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Desktop\חופר\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\itamar\Desktop\חופר\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Desktop\חופר\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Desktop\חופר\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Desktop\חופר\obj\Debug\App.g.cs
+C:\Users\itamar\Desktop\חופר\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Desktop\חופר\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Desktop\חופר\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Desktop\חופר\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\MainWindow.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\App.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\bin\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\חופר\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Final Project.exe
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\App.g.cs
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\bin\Debug\Final Project.exe
+C:\Users\מיתר\Desktop\התאריך של היום\חופר\bin\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\bin\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\bin\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\MainWindow.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\App.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\bin\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\App.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של מחר\איתמר די לחפור\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Final Project.exe
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\bin\Debug\Final Project.exe
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\App.g.cs
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Desktop\24.4.14\איתמר די לחפור\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\bin\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\App.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Adding a new saving programm to a client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Adding a new saving programm to a client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\App.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\bin\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\25.4.14\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\826\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\826\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.exe
+C:\Users\826\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\App.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\bin\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\App.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\bin\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\28.4.14\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\bin\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\App.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\29.4.14\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\bin\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\App.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\bin\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\App.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Desktop\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Final Project.exe
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\itamar\Desktop\FinalProject\bin\Debug\Final Project.exe
+C:\Users\itamar\Desktop\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\App.g.cs
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Desktop\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\bin\Debug\Final Project.exe
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\App.g.cs
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\מיתר\Google Drive\projectc#MeitarItamar\התאריך של היום (1)\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\bin\Debug\Final Project.exe
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\App.g.cs
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\itamar\Google Drive\projectc#MeitarItamar\projectMeitarItamar\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\bin\Debug\Final Project.exe.config
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\bin\Debug\Final Project.exe
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\bin\Debug\Final Project.pdb
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\AcountActions.baml
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\MainWindow.baml
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Registering a new client.baml
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\ShowDetails.baml
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\AcountActions.g.cs
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\MainWindow.g.cs
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Registering a new client.g.cs
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\ShowDetails.g.cs
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\App.g.cs
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.g.resources
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.exe
+C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.pdb

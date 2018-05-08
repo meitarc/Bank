@@ -1,0 +1,31 @@
+﻿<Window x:Class="Final_Project.MainMenu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="638" Width="573" ResizeMode="CanMinimize" >
+    <Grid>
+        <Grid.Background>
+            <RadialGradientBrush>
+                <GradientStop Color="#FF2E7C7C" Offset="1"/>
+                <GradientStop Color="White"/>
+            </RadialGradientBrush>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="txtbBusinessName" HorizontalAlignment="Left" Height="43" Margin="33,623,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146" FontSize="18" Visibility="Hidden"/>
+        <Menu HorizontalAlignment="Left" Height="20" VerticalAlignment="Top" Width="565">
+            <MenuItem Header="File">
+                <MenuItem x:Name="MenuBSaveAs" Header="Save As" Click="MenuBSaveAs_Click"/>
+                <MenuItem x:Name="btnLoad" Header="Load" Click="btnLoad_Click"/>
+                <MenuItem Header="Quit" Name="btnQuit" Click="btnQuit_Click"/>
+            </MenuItem>
+        </Menu>
+        <Button x:Name="btnAddClient" Content="Add " HorizontalAlignment="Left" Margin="210,204,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click_1" Height="34" FontSize="14"/>
+        <Label Content="Add a new client:" HorizontalAlignment="Left" Margin="210,172,0,0" VerticalAlignment="Top" Width="142" FontSize="16" FontFamily="Matura MT Script Capitals"/>
+        <Label Content="AcountActions:" HorizontalAlignment="Left" Margin="210,294,0,0" VerticalAlignment="Top" Width="142" FontSize="16" FontFamily="Matura MT Script Capitals"/>
+        <Button Content="Show" HorizontalAlignment="Left" Margin="210,326,0,0" VerticalAlignment="Top" Width="142" Height="34" Click="Button_Click_2" FontSize="14"/>
+        <Label Content="Show clients details:" HorizontalAlignment="Left" Margin="210,412,0,0" VerticalAlignment="Top" Width="170" FontSize="16" FontFamily="Matura MT Script Capitals"/>
+        <Button x:Name="btnShowDetails" Content="Show" HorizontalAlignment="Left" Margin="210,442,0,0" VerticalAlignment="Top" Width="142" Height="36" Click="btnShowDetails_Click" FontSize="14"/>
+        <Label Content="Meitar and Itamar's bank" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" FontSize="30" FontFamily="Ravie" FontStyle="Italic" Background="{x:Null}" Foreground="White"/>
+    </Grid>
+</Window>
