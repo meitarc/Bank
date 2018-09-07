@@ -1,5 +1,6 @@
 # Bank
-From my studies at Sela College
+From my studies at Sela College.
+
 in this file we will sum our project and its available actions.
 
 the project is by Meitar Cohen and Itamar Dahan, class 826.
@@ -31,3 +32,10 @@ To make a deposit / withdrawal the ID field should be filled with an existing ID
 When the third button in the main menu is clicked a window that displays a list of all existing accounts will be displayed.
 When a certain account the selected acount's details will be displayed.
 in this window we have an addition of menus at the top of the window to sort and display the information in different ways by the user's selection
+
+<h2>Screenshots</h2>
+<img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank1.JPG" width="500">
+<img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank2.JPG" width="500"/>
+
+<img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank3.JPG" width="500">
+<img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank4.JPG" width="500">
