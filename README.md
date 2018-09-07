@@ -35,7 +35,7 @@ in this window we have an addition of menus at the top of the window to sort and
 
 <h2>Screenshots</h2>
 <img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank1.JPG" width="500">
-<img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank2.JPG" width="500"/>
+<img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank2.JPG" width="500">
 
 <img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank3.JPG" width="500">
 <img src="https://github.com/meitarc/Bank/blob/master/screenghots/%E2%80%8F%E2%80%8Fbank4.JPG" width="500">
