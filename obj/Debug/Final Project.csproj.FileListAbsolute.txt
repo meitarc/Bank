@@ -365,3 +365,23 @@ C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\F
 C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
 C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.exe
 C:\Users\Meitar\Downloads\downloadprojectMeitarItamar24\FinalProject\obj\Debug\Final Project.pdb
+C:\Users\Meitar\Documents\GitHub\Bank\bin\Debug\Final Project.exe.config
+C:\Users\Meitar\Documents\GitHub\Bank\bin\Debug\Final Project.exe
+C:\Users\Meitar\Documents\GitHub\Bank\bin\Debug\Final Project.pdb
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\AcountActions.baml
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\MainWindow.baml
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Registering a new client.baml
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\ShowDetails.baml
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\AcountActions.g.cs
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\MainWindow.g.cs
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Registering a new client.g.cs
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\ShowDetails.g.cs
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\App.g.cs
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final Project_MarkupCompile.cache
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final Project.g.resources
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final Project.exe
+C:\Users\Meitar\Documents\GitHub\Bank\obj\Debug\Final Project.pdb
